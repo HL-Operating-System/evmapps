@@ -1,0 +1,1 @@
+This is a repo for all EVM apps that are connected to the OS. To prove, we are using contracts directly from the corresponding protocol.
